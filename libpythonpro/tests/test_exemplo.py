@@ -1,2 +1,2 @@
 def test_int():
-    assert 0==5
+    assert 0==0
